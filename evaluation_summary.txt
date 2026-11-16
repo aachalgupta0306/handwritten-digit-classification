@@ -1,0 +1,5 @@
+Dataset: Scikit-learn Digits (1797 images, 8x8 pixels)
+Train samples: 1437
+Test samples: 360
+SVM accuracy: 98.06%
+Random Forest accuracy: 96.94%
